@@ -26,7 +26,7 @@ To run the TODO List Application locally, follow these steps:
 
 1. **Clone the repository:**
 
-   git clone https://github.com/yourusername/todo-java.git
+   git clone https://github.com/srinukongani15/todo-java.git
 Navigate to the project directory:
 
 
