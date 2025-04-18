@@ -57,8 +57,6 @@ Delete a Task:
 
 Delete a task from the list permanently.
 
-Screenshots
-(You can add some screenshots of the application here)
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
